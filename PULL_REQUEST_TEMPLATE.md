@@ -1,4 +1,4 @@
-Please Check for the following points before creating a PR.
+<!-- Please Check for the following points before creating a PR. -->
 
 - [] Labels to know if it's a feature/bug
 - [] Label to know if it's a breaking change
