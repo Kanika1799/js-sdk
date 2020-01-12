@@ -8,6 +8,6 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Pull Request Review
-      uses: Man-Jain/mesg-pr-action@v3
+      uses: Man-Jain/mesg-pr-action@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
