@@ -26,6 +26,7 @@ USAGE
 ...
 ```
 <!-- usagestop -->
+- asdfsadfsadfsdfsadf
 # Commands
 <!-- commands -->
 * [`mesg-cli daemon:logs`](#mesg-cli-daemonlogs)
