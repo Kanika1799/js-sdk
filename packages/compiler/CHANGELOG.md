@@ -11,6 +11,7 @@
 ## [v0.1.0](https://github.com/mesg-foundation/js-sdk/releases/tag/%40mesg%2Fcompiler%400.1.0)
 
 #### Improvements
+- jjkhkjhkjh
 
 - Add support of path for the process map references. You can now reference not only the root variable of a result/event but also any nested data.
 In order to reference a nested data you can use a simplified json path format where `.` let you access a nested data and `[]` let you access an index of an array.
