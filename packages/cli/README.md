@@ -9,7 +9,7 @@ MESG Engine CLI
 [![License](https://img.shields.io/npm/l/mesg-cli.svg)](https://github.com/mesg-foundation/cli/blob/master/package.json)
 
 <!-- toc -->
-* [Usage](#usage)
+* [Usage](#usage)z
 * [Commands](#commands)
 <!-- tocstop -->
 # Usage
