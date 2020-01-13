@@ -29,7 +29,7 @@ USAGE
 - asdfsadfsadfsdfsadf
 # Commands
 <!-- commands -->
-* [`mesg-cli daemon:logs`](#mesg-cli-daemonlogs)
+* [`mesg-cli daemon:logs`](#mesg-cli-daemonlogs)asdasd
 * [`mesg-cli daemon:start`](#mesg-cli-daemonstart)
 * [`mesg-cli daemon:status`](#mesg-cli-daemonstatus)
 * [`mesg-cli daemon:stop`](#mesg-cli-daemonstop)
