@@ -10,8 +10,7 @@ MESG Engine CLI
 
 <!-- toc -->
 * [Usage](#usage)z
-* [Commands](#commands)
-<!-- tocstop -->
+* [Commands](#commands)asdf
 # Usage
 <!-- usage -->
 ```sh-session
